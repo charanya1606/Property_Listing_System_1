@@ -1,3 +1,4 @@
+
 # Property Listing System
 
 A full-stack property listing system built with Node.js, Express, TypeScript, MongoDB (Mongoose), and Redis caching. This application allows users to create, view, filter, update, and delete property listings, with advanced filtering and caching for performance.
@@ -125,3 +126,4 @@ GET /api/properties?minPrice=100000&maxPrice=500000&propertyType=Apartment&bedro
 
 ## License
 MIT
+
